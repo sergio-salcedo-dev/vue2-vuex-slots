@@ -1,0 +1,21 @@
+.fs-7 {
+  font-size: 0.8rem;
+}
+.fs-8 {
+  font-size: 0.6rem;
+}
+
+.form-control:focus,
+.btn-check:focus + .btn,
+.btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.05rem rgb(13 110 253 / 25%);
+}
+.router-link-exact-active {
+  color: #42b983 !important;
+}
+
+.vue-school-active-link {
+  /*color: #42b983 !important;*/
+  color: #ff8c00 !important;
+}
